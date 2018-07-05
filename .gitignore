@@ -1,0 +1,16 @@
+ #ignoruj wszystkie skompilowane plik
+*.o
+*.out
+
+#ignoruj temp gedit
+*~
+
+#Clion
+.idea
+CMakeLists.txt
+cmake-build-debug
+
+#Idea
+*.iml
+.idea/
+out/
